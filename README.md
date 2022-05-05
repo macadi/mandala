@@ -1,4 +1,4 @@
-# mandala
+# MaNDala
 
 The MaNGA Dwarf galaxy (MaNDala) Sample is a sample of dwarf galaxies observed with Integral Field Spectroscopy (IFS) by MaNGA (Bundy et al. 2015), which is one of the main SDSS IV projects (Blanton et al., 2017).
 The sample is defined to contain galaxies with stellar masses < 10^9.06 MSun (stellar masses are taken from the NSA catalogue using h=0.7), and to be less bright than the Large Magalleanic Cloud (i.e. M < 18.5).
